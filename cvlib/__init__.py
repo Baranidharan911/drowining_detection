@@ -1,0 +1,1 @@
+from cvlib.object_detection import detect_common_objects
